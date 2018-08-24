@@ -1,2 +1,10 @@
-# erna-villiger.ch
-Website Project for http://www.erna-villiger.ch/
+# Website project for erna-villiger.ch
+
+## Build Tools
+* npm
+
+## Build Steps
+1. Clone this repository (development branch)
+1. `cd k2informaticsgmbh.github.io/dev`
+1. `npm run build` - for production build
+1. `npm start` - for development (starts browser to http://localhost:8080 automatically)
